@@ -1,11 +1,9 @@
 __author__ = 'chsmith4'
 #import requests
+import urllib
 
 #open the input file from SANS, the output file with modified IP's
-
 #inputfile = requests.get("http://feeds.dshield.org/block.txt")
-
-import urllib
 
 testfile = urllib.URLopener()
 testfile.retrieve("http://feeds.dshield.org/block.txt", "dshiledblock.txt")
