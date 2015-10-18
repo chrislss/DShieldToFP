@@ -6,7 +6,7 @@ import urllib
 #inputfile = requests.get("http://feeds.dshield.org/block.txt")
 
 testfile = urllib.URLopener()
-testfile.retrieve("http://feeds.dshield.org/block.txt", "dshiledblock.txt")
+testfile.retrieve("http://feeds.dshield.org/block.txt", "dshieldblock.txt")
 
 inputfile = open('dshieldblock.txt')
 outputfile = open('feedlist.txt','w')

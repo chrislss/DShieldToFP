@@ -9,7 +9,7 @@
 #     PGP Sign.: http://feeds.dshield.org/block.txt.asc
 #
 #   comments: info@dshield.org
-#    updated: Wed Jul  1 20:41:45 2015 UTC
+#    updated: Sun Oct 18 04:56:00 2015 UTC
 #   
 #    This list summarizes the top 20 attacking class C (/24) subnets
 #   over the last three days. The number of 'attacks' indicates the 
@@ -29,28 +29,28 @@
 #    If a range is assigned to multiple users, the first one is listed. 
 #     
 Start	End	Netblock	Attacks	Name	Country	email
-43.255.189.0	43.255.189.255	24	3500	Japan Inet	JP	admin@v6nic.net
-43.255.188.0	43.255.188.255	24	3049	Japan Inet	JP	admin@v6nic.net
-61.240.144.0	61.240.144.255	24	2252	China United Telecommunications Corporation	CN	ip_address@cnuninet.com
-61.183.128.0	61.183.128.255	24	2050	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse_wh@public.wh.hb.cn
-121.226.124.0	121.226.124.255	24	1261	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@ns.chinanet.cn.net
-194.63.142.0	194.63.142.255	24	1028			
-58.215.49.0	58.215.49.255	24	1028	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse@jsinfo.net
-60.169.75.0	60.169.75.255	24	1024	CHINANET-BACKBONE No.31,Jin-rong Street	CN	wang@mail.hf.ah.cninfo.net
-78.188.67.0	78.188.67.255	24	1023	TEOLTAB TEO LT AB Autonomous System	US	reserved
-218.204.146.0	218.204.146.255	24	1022		CN	abuse@chinamobile.com
-58.218.200.0	58.218.200.255	24	1021	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse@jsinfo.net
-212.83.129.0	212.83.129.255	24	1021	92130 Issy-les-Moulineaux	FR	abuse@worldonline.fr
-78.182.29.0	78.182.29.255	24	1021	TEOLTAB TEO LT AB Autonomous System	US	reserved
-78.188.205.0	78.188.205.255	24	1021	TEOLTAB TEO LT AB Autonomous System	US	reserved
-78.186.161.0	78.186.161.255	24	1021	TEOLTAB TEO LT AB Autonomous System	US	reserved
-83.234.207.0	83.234.207.255	24	1021			
-180.151.95.0	180.151.95.255	24	1021	SPECTRANET FIRST FIBRE BROADBAND NETWORK IN NEW DELHI, INDIA	IN	abuse@spectranet.com
-89.248.167.0	89.248.167.255	24	1021			
-78.180.189.0	78.180.189.255	24	1021	TEOLTAB TEO LT AB Autonomous System	US	reserved
-71.123.44.0	71.123.44.255	24	1021	Verizon Internet Services	US	IPMGMT@verizon.com
+63.143.239.0	63.143.239.255	24	9252			
+197.157.244.0	197.157.244.255	24	5596	RESERVED	US	reserved
+191.97.16.0	191.97.16.255	24	2938			
+83.145.1.0	83.145.1.255	24	2336			
+45.55.243.0	45.55.243.255	24	1923			
+81.196.111.0	81.196.111.255	24	1426	Romania Data Systems	RO	abuse@rdsnet.ro
+167.114.57.0	167.114.57.255	24	1168	Ashton Communications Corporation	US	rashton@acnet.net
+158.69.181.0	158.69.181.255	24	1027	Sparta Inc. AESO	US	scud@huntsville.sparta.com
+123.59.53.0	123.59.53.255	24	982			
+37.120.173.0	37.120.173.255	24	960			
+58.221.58.0	58.221.58.255	24	756	CHINANET-BACKBONE No.31,Jin-rong Street	CN	abuse@jsinfo.net
+43.229.53.0	43.229.53.255	24	622	Japan Inet	JP	admin@v6nic.net
+94.102.49.0	94.102.49.255	24	585	ECATEL-AS AS29073, Ecatel Network	EU	abuse@ecatel.net
+115.231.222.0	115.231.222.255	24	575	CHINANET-BACKBONE No.31,Jin-rong Street	CN	anti-spam@mail.lsptt.zj.cn
+104.131.125.0	104.131.125.255	24	529			
+192.99.100.0	192.99.100.255	24	476			
+120.195.152.0	120.195.152.255	24	305	CMNET-GD Guangdong Mobile Communication Co.Ltd.	CN	abuse@chinamobile.com
+77.236.96.0	77.236.96.255	24	293			
+122.141.244.0	122.141.244.255	24	284			
+104.194.207.0	104.194.207.255	24	271			
 #
 #
 # END
 #
-#  finished list generation: Wed Jul  1 20:41:49 2015 UTC
+#  finished list generation: Sun Oct 18 04:56:00 2015 UTC
